@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "525743829296",
+    "project_id": "fetch-43480",
+    "storage_bucket": "fetch-43480.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525743829296:android:7f443a27502b938260d8f5",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525743829296-blqm43si40tk4qkk8lr434v130rgtbak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIPEXMLaQJn2Wm6RA_iPlFJYoBhEaG_Fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525743829296-blqm43si40tk4qkk8lr434v130rgtbak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
